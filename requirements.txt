@@ -110,7 +110,6 @@ sqlparse==0.4.4
 stack-data==0.1.4
 svglib==1.5.1
 tenacity==8.0.1
-threadpoolctl==3.2.0
 tinycss2==1.2.1
 tomli==1.2.3
 tornado==6.1
